@@ -1,0 +1,3 @@
+string = "vishalrknagar";
+
+print (string+".")
